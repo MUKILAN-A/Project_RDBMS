@@ -1,0 +1,6 @@
+EmployeeID,EmployeeFirstName,EmployeeLastName,Age,Gender,SIN,EmployeeType,Rate,EmployerID
+19723,Millie,Brown,22,Female,902367280,Fulltime,16.15,345678
+23480,Stephanie,Joseph,21,Female,931341482,Fulltime,15.25,NULL
+29473,Steven,Santos,22,Male,874835802,Partime,18.25,123456
+34567,Sarah,Mills,28,Female,572873619,Fulltime,19.25,345678
+98424,Mike,James,29,Male,673231619,Partime,20.25,768532

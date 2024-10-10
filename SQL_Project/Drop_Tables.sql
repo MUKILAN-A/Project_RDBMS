@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS Employer;
+DROP TABLE IF EXISTS Employee;
+DROP TABLE IF EXISTS Assignment;
+DROP TABLE IF EXISTS PerformanceEvaluation;
+DROP TABLE IF EXISTS WorkingOn;
